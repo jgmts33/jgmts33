@@ -46,7 +46,7 @@ Senior Full-stack & AI developer
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=black">
 </a>
 <a href="#" target="_blank">
-  <img alt="CSS Wizardry" src="https://img.shields.io/badge/CSS Wizardry-F43059?style=for-the-badge&logo=CSS Wizardry&logoColor=black">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-F43059?style=for-the-badge&logo=CSS Wizardry&logoColor=black">
 </a>
 <a href="#" target="_blank">
   <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Scss&logoColor=black">
