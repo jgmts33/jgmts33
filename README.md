@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> I'm Jorg Reemts </h1> 
+<h1 style="text-align: center;"> I'm Jörg Reemts </h1> 
 <h3 align='center'>
 Senior Full-stack & AI developer
 </h3>
