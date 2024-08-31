@@ -137,8 +137,10 @@
 
 <!-- Tools and Platforms -->
 <div>
-![Github Stats &  Contribution Streak 🔥](https://github-readme-streak-stats.herokuapp.com?user=jgmts33&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-<img height="180em" src="./stats.svg"/>
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com?user=jgmts33&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![](./stats.svg)
+
 </div>
 
 Last Edited on: 01/01/2024
