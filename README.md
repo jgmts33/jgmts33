@@ -133,12 +133,11 @@
 <a href="#" target="_blank">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </a>
-<table>
 
 <!-- Tools and Platforms -->
-<div>
+<div>sw
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com?user=jgmts33&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com?user=jgmts33&theme=white-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 ![](./stats.svg)
 
 </div>
