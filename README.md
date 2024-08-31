@@ -1,7 +1,5 @@
 <h2 style="text-align: center;">Jörg Reemts (Senior Full-stack & AI developer) </h2> 
-<div style="display: flex">
-<span style="font-size: 1.3rem; margin-right: 1rem; "> Connect with me 🔗 : </span>
-
+<div  style="display: flex; justify-content: center;">
 <a href="mailto:jorgreemts@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
@@ -152,20 +150,12 @@
 
 </div>
 <!-- Tools and Platforms -->
-<div style="display: flex">
 <div>
-<h3> Github Contribution Streak 🔥 </h3>
-
+<h3>Github Stats &  Contribution Streak 🔥 </h3>
 <br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=jgmts33&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-</div>
-<div style="margin-left: 1rem">
-<h3> Github Stats &nbsp;📊 </h3>
-<br>
-<p align='center'>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=jgmts33&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 <img src="https://github-readme-stats.vercel.app/api?username=jgmts33&show_icons=true&theme=github_dark">
 </p>
-</div>
 </div>
 
 Last Edited on: 01/01/2024
