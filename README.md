@@ -1,5 +1,5 @@
 <h2 style="text-align: center;">Jörg Reemts (Senior Full-stack & AI developer) </h2> 
-<div  style="display: flex; justify-content: center;">
+<div align="center">
 <a href="mailto:jorgreemts@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
@@ -9,9 +9,6 @@
 
 ### Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
-<!-- Programming Languages -->
-<div style="display: flex;">
-<div>
 <h4> Client-Side </h4>
 
 <a href="https://reactjs.org/" target="_blank">
@@ -44,8 +41,6 @@
 <a href="#" target="_blank">
   <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Scss&logoColor=black">
 </a>
-</div>
-<div>
 <h4> Server-Side </h4>
 
 <a href="https://nodejs.org/" target="_blank">
@@ -81,10 +76,6 @@
 <a href="#" target="_blank">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
 </a>
- </div>
- </div>
-<div style="display: flex">
-<div>
 <h4>Database</h4>
 
 <a href="#" target="_blank">
@@ -102,8 +93,6 @@
 <a href="#" target="_blank">
   <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
 </a>
-</div>
-<div>
 <h4> Mobile </h4>
 
 <a href="https://reactnative.dev/" target="_blank">
@@ -118,8 +107,6 @@
 <a href="#" target="_blank">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 </a>
-</div>
-<div>
 <h4> Development & Operations </h4>
 
 <a href="#" target="_blank">
@@ -146,16 +133,12 @@
 <a href="#" target="_blank">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </a>
-</div>
+<table>
 
-</div>
 <!-- Tools and Platforms -->
 <div>
-<h3>Github Stats &  Contribution Streak 🔥 </h3>
-<br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=jgmts33&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-<img src="https://github-readme-stats.vercel.app/api?username=jgmts33&show_icons=true&theme=github_dark">
-</p>
+![Github Stats &  Contribution Streak 🔥](https://github-readme-streak-stats.herokuapp.com?user=jgmts33&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img height="180em" src="./stats.svg"/>
 </div>
 
 Last Edited on: 01/01/2024
