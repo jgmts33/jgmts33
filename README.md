@@ -5,7 +5,7 @@ This is the place where you can hear about me:
 - 🔭 &nbsp;I’m currently working on something cool
 - 🌱 &nbsp;I’m currently learning Go and Rust
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Node.js/Python or React/Django/Flask/TensorFlow
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
+- 👨‍💻 &nbsp;Read more about my projects here
 - ⚡ &nbsp;Fun fact: Learning [Top Technologies](https://quokkalabs.com/blog/top-20-technology-trends-in-2024/)
 
 <h2>🚀 Some Tools I Use</h2>
